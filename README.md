@@ -47,7 +47,7 @@ I bridge the gap between **complex engineering** and **intuitive design**. My pa
 
 ---
 
-### 📊 Stats & 1337 Profile
+**### 📊 Stats & 1337 Profile
 
 <div align="center">
 
@@ -68,3 +68,4 @@ I bridge the gap between **complex engineering** and **intuitive design**. My pa
 <div align="center">
   <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
 </div>
+**
