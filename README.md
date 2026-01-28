@@ -1,6 +1,6 @@
 ### 📊 Stats & 1337 Profile
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mboumlik" alt="mboumlik's 42 stats" /></a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/Binary/mboumlik" alt="mboumlik's 42 stats" /></a>
 </p>
 
 <div align="center">
