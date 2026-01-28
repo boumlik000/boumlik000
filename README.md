@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohamed! 👋
 
 #### 👨‍💻 UI/UX Designer & Software Engineering Student at 1337 (42 Network)
-[![<mboumlik>'s 42 stats](https://badge.mediaplus.ma/darkblue/<mboumlik>)](https://github.com/oakoudad/badge42)
+
 I bridge the gap between **complex engineering** and **intuitive design**. My passion lies in building systems that are not only robust under the hood but also provide exceptional user experiences.
 
 - 🔭 **I’m currently working on:** [LeveLUP](https://github.com/boumlik000) (A B2B Task Management SaaS).
@@ -29,6 +29,7 @@ I bridge the gap between **complex engineering** and **intuitive design**. My pa
 ### 📊 Stats & Level
 
 <div align="center">
+  <img src="https://badge42.vercel.app/api/v2/cl2?username=mboumlik&project=42cursus" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=boumlik000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   <img src="https://img.shields.io/badge/1337_Level-10.50-00babc?style=for-the-badge&logo=42&logoColor=white" alt="1337 Level" />
