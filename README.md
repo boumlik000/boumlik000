@@ -1,3 +1,8 @@
+### 📊 Stats & 1337 Profile
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mboumlik" alt="mboumlik's 42 stats" /></a>
+</p>
+
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <h1>Hi there, I'm Mohamed Boumlik!</h1>
@@ -47,25 +52,5 @@ I bridge the gap between **complex engineering** and **intuitive design**. My pa
 
 ---
 
-**### 📊 Stats & 1337 Profile
 
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boumlik000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boumlik000&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br/><br/>
-
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cl1p?username=mboumlik&cursusId=21&theme=dark" alt="42 Stats" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
-</div>
 **
