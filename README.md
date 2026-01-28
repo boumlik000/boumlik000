@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohamed! 👋
 
 #### 👨‍💻 UI/UX Designer & Software Engineering Student at 1337 (42 Network)
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<mboumlik>)](https://github.com/oakoudad/badge42)
+[![<mboumlik>'s 42 stats](https://badge.mediaplus.ma/darkblue/<mboumlik>)](https://github.com/oakoudad/badge42)
 I bridge the gap between **complex engineering** and **intuitive design**. My passion lies in building systems that are not only robust under the hood but also provide exceptional user experiences.
 
 - 🔭 **I’m currently working on:** [LeveLUP](https://github.com/boumlik000) (A B2B Task Management SaaS).
