@@ -19,7 +19,7 @@
 
 I bridge the gap between **complex engineering** and **intuitive design**. My passion lies in building systems that are not only robust under the hood but also provide exceptional user experiences.
 
-- 🔭 **Current Project:** [TaskFlow](https://github.com/boumlik000) (A B2B Task Management SaaS).
+- 🔭 **Current Project:** [LeveLUP](https://github.com/boumlik000) (A B2B Task Management SaaS).
 - 🌱 **Focus:** Advanced React Patterns & Design Systems.
 - 🎨 **Highlight:** Created **Cub3D**, a viral Wolfenstein-style game engine in C.
 - 🎯 **Goal:** PFE Internship (Design & Engineering) starting March/April 2026.
@@ -57,9 +57,9 @@ I bridge the gap between **complex engineering** and **intuitive design**. My pa
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/1337_Level-10.00-00babc?style=for-the-badge&logo=42&logoColor=white" alt="1337 Level" />
-  
-  <img src="https://img.shields.io/badge/Cursus-Common_Core-black?style=for-the-badge&logo=42&logoColor=white" alt="Cursus" />
+  <a href="https://github.com/JaeSeoKim/badge42">
+    <img src="https://badge42.vercel.app/api/v2/cl1p?username=mboumlik&cursusId=21&theme=dark" alt="42 Stats" />
+  </a>
 
 </div>
 
