@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohamed! 👋
 
 #### 👨‍💻 UI/UX Designer & Software Engineering Student at 1337 (42 Network)
-
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<mboumlik>)](https://github.com/oakoudad/badge42)
 I bridge the gap between **complex engineering** and **intuitive design**. My passion lies in building systems that are not only robust under the hood but also provide exceptional user experiences.
 
 - 🔭 **I’m currently working on:** [LeveLUP](https://github.com/boumlik000) (A B2B Task Management SaaS).
@@ -31,13 +31,7 @@ I bridge the gap between **complex engineering** and **intuitive design**. My pa
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=boumlik000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img height="160em" src="[https://badge42.vercel.app/api/v2/cl1p?username=mboumlik&cursusId=21&theme=dark](https://profile-v3.intra.42.fr/users/mboumlik)" alt="mboumlik's 42 stats" />
-  </a>
-</div>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/mohamed-boumlik-78069622a/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/1337_Level-10.50-00babc?style=for-the-badge&logo=42&logoColor=white" alt="1337 Level" />
+  
+  <img src="https://img.shields.io/badge/Cursus-Common_Core-black?style=for-the-badge&logo=42&logoColor=white" alt="Cursus" />
 </div>
